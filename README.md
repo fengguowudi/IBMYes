@@ -32,4 +32,4 @@ Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cl
 - [GitHub Actions](https://github.com/features/actions)
 
 ## Licence
-[MIT](https://github.com/P3TERX/IBM-CF-V2/blob/main/LICENSE) © P3TERX
+[MIT](https://github.com/P3TERX/IBM-CF-V2/blob/main/LICENSE) © P3TER
